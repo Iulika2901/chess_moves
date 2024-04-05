@@ -35,12 +35,12 @@
   <li><strong>Graphical User Interface (GUI):</strong> Develop a graphical user interface to visualize the chess board and interact with it using mouse clicks.</li>
   <li><strong>Optimization for Performance:</strong> Optimize the code for better performance, especially for large chess boards or time-sensitive applications.</li>
 </ul>
-
+<p>WCode write in C:</p>
+<img src="https://github.com/Iulika2901/chess_moves/assets/84437252/2273e381-182f-43d5-9045-1fe060bc2de1">
 <h2>Chess Images</h2>
 
-<p>Here are some chess images from Google:</p>
+<pThis can help you:</p>
 
-<p>White pieces:</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/AAA_SVG_Chessboard_and_chess_pieces_02.svg/768px-AAA_SVG_Chessboard_and_chess_pieces_02.svg.png?20200505220000" alt="Chess Table">
 
 
