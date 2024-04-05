@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Chess Board Initialization and Encoding</title>
+Chess Board Initialization and Encoding
 </head>
 <body>
 
@@ -39,7 +39,7 @@
 <img src="https://github.com/Iulika2901/chess_moves/assets/84437252/2273e381-182f-43d5-9045-1fe060bc2de1">
 <h2>Chess Images</h2>
 
-<pThis can help you:</p>
+<p>This can help you:</p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/AAA_SVG_Chessboard_and_chess_pieces_02.svg/768px-AAA_SVG_Chessboard_and_chess_pieces_02.svg.png?20200505220000" alt="Chess Table">
 
