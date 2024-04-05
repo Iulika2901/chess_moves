@@ -41,20 +41,8 @@
 <p>Here are some chess images from Google:</p>
 
 <p>White pieces:</p>
-<img src="https://www.chess.com/bundles/web/images/offline-play/standardpieces/150w/wikipedia/white-rook.png" alt="White Rook">
-<img src="https://www.chess.com/bundles/web/images/offline-play/standardpieces/150w/wikipedia/white-knight.png" alt="White Knight">
-<img src="https://www.chess.com/bundles/web/images/offline-play/standardpieces/150w/wikipedia/white-bishop.png" alt="White Bishop">
-<img src="https://www.chess.com/bundles/web/images/offline-play/standardpieces/150w/wikipedia/white-queen.png" alt="White Queen">
-<img src="https://www.chess.com/bundles/web/images/offline-play/standardpieces/150w/wikipedia/white-king.png" alt="White King">
-<img src="https://www.chess.com/bundles/web/images/offline-play/standardpieces/150w/wikipedia/white-pawn.png" alt="White Pawn">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/AAA_SVG_Chessboard_and_chess_pieces_02.svg/768px-AAA_SVG_Chessboard_and_chess_pieces_02.svg.png?20200505220000" alt="Chess Table">
 
-<p>Black pieces:</p>
-<img src="https://www.chess.com/bundles/web/images/offline-play/standardpieces/150w/wikipedia/black-rook.png" alt="Black Rook">
-<img src="https://www.chess.com/bundles/web/images/offline-play/standardpieces/150w/wikipedia/black-knight.png" alt="Black Knight">
-<img src="https://www.chess.com/bundles/web/images/offline-play/standardpieces/150w/wikipedia/black-bishop.png" alt="Black Bishop">
-<img src="https://www.chess.com/bundles/web/images/offline-play/standardpieces/150w/wikipedia/black-queen.png" alt="Black Queen">
-<img src="https://www.chess.com/bundles/web/images/offline-play/standardpieces/150w/wikipedia/black-king.png" alt="Black King">
-<img src="https://www.chess.com/bundles/web/images/offline-play/standardpieces/150w/wikipedia/black-pawn.png" alt="Black Pawn">
 
 </body>
 </html>
