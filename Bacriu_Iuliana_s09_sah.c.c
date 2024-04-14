@@ -6,7 +6,7 @@ void init(char table[][8])
         {
             if(i>=2 && i<=5) table[i][j]=' ';
             if(i==1)table[i][j]='p';
-            if(i==6)table[i][j]='P';
+           if(i==6)table[i][j]='P';
             if((i==0 && j==0) || (i==0 && j==7))table[i][j]='r';
             if((i==7 && j==0) || (i==7 && j==7))table[i][j]='R';
             if((i==0 && j==1) || (i==0 && j==6))table[i][j]='n';
